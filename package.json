@@ -19,5 +19,13 @@
     "npm": "5"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishant4398/Task-ishant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishant4398/Task-ishant/issues"
+  },
+  "homepage": "https://github.com/ishant4398/Task-ishant#readme",
   "description": ""
 }
